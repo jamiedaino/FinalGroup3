@@ -1,7 +1,7 @@
 # FinalGroup3
 Scott Neale's C# Group 3 project App
-//We can start coding here so that we can all add comments and see each others work. This took me a while, but click on the little //computer to the right of the read me file. then it will open a box and start coding. If you want to just make a new snippet of code and //show everyone, but not necessarily ahve it displayed in the main code, then gist it. make it public so we can all see. 
-//Below is the code from the begginning of thursday. This is just the ToDO class
+We can start coding here so that we can all add comments and see each others work. This took me a while, but click on the little computer to the right of the read me file. then it will open a box and start coding. If you want to just make a new snippet of code and show everyone, but not necessarily have it displayed in the main code, then gist it. make it public so we can all see. 
+Below is the code from the begginning of thursday. This is just the ToDO class
 
 
   public partial class ToDoLists : Form
